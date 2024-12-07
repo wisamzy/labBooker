@@ -55,6 +55,7 @@ CORS_ALLOWED_ORIGINS = [
   'http://localhost:3000',
 ]
 
+
 ROOT_URLCONF = 'labbooker.urls'
 
 TEMPLATES = [
